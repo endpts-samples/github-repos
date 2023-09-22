@@ -1,0 +1,15 @@
+{
+  "name": "github-repos",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "endpts dev"
+  },
+  "devDependencies": {
+    "@endpts/devtools": "^1.1.1",
+    "@endpts/types": "^1.1.0",
+    "@types/node": "^20.6.3",
+    "typescript": "^5.2.2"
+  }
+}
